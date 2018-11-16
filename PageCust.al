@@ -13,13 +13,7 @@ pageextension 50100 MyCust extends "Customer Card"
 
     actions
     {
-        addafter("&Customer")
-        {
-            action(NewPage)
-            {
-                RunObject = PAGE 50102;
-            }
-        }
+
     }
 
     var
