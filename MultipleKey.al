@@ -30,10 +30,6 @@ table 50102 MultipleKey
         {
             DataClassification = ToBeClassified;
         }
-        field(7; "Phone No"; code[10])
-        {
-            DataClassification = ToBeClassified;
-        }
     }
 
     keys
