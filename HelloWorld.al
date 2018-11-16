@@ -6,6 +6,6 @@ pageextension 50101 CustomerListExt1 extends "Customer List"
 {
     trigger OnOpenPage();
     begin
-        Message('Helloo NAV online');
+        Message('Helloo NAV online demo test');
     end;
 }
