@@ -26,10 +26,6 @@ table 50102 MultipleKey
         {
             DataClassification = ToBeClassified;
         }
-        field(6; Address; Text[50])
-        {
-            DataClassification = ToBeClassified;
-        }
     }
 
     keys
