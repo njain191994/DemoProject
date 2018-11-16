@@ -10,10 +10,15 @@ pageextension 50100 MyCust extends "Customer Card"
             }
         }
     }
-
     actions
     {
+        addlast("&Customer")
+        {
+            action(my)
+            {
 
+            }
+        }
     }
 
     var
