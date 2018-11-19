@@ -11,11 +11,6 @@ page 50101 MyPage
         {
             group(GroupName)
             {
-                field(a1; a1)
-                {
-                    ApplicationArea = All;
-
-                }
                 field(a2; a2)
                 {
                     ApplicationArea = All;
